@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZeusTheJupiterKing21
+- 👋 Hi, I’m @Hansin Sojitra
 - 👀 I’m interested in cricket and badminton
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on html
