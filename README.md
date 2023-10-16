@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Hansin Sojitra
+- 👋 Hi, I’m @ZeusTheJupiterKing
 - 👀 I’m interested in cricket and badminton
-- 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on html
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on java
 - 📫 How to reach me. Bangalore 
