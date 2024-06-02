@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZeusTheJupiterKing21
-- 👀 I’m interested in cricket and badminton
+- 👀 I’m interested in cricket, badminton and football
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on java
-- 📫 How to reach me. Bangalore 
+- 📫 How to reach me. Berlin 
